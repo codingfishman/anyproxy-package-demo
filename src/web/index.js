@@ -4,7 +4,7 @@ import App from './app';
 
 const shouldRenderUi = function (record = {}) {
   // only eval id will show the plugin
-  return true || record.id && record.id % 2 === 0;
+  return true || (record.id && record.id % 2 === 0);
 }
 
 const renderUi = function (domNode, record) {

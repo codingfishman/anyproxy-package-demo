@@ -8,4 +8,4 @@ module.exports = {
   interceptUrls: [
     'http://domain.your.preference.com'
   ]
-}
+};

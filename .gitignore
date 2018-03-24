@@ -22,3 +22,4 @@ node_modules
 .lock-wscript
 temp
 dist
+*.tgz

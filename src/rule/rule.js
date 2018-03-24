@@ -1,5 +1,3 @@
-const URL = require('url');
-
 module.exports = {
   summary: 'The rule to demo AnyProxy plugin',
   getWebFiles() {
